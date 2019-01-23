@@ -1,0 +1,29 @@
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\01. Les bougies\DP 2017_BEB_4083.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\01. Les bougies\DP 2017_BEB_4084.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\01. Les bougies\DP 2017_BEB_4085.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\01. Les bougies\DP 2017_BEB_4086.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\01. Les bougies\DP 2017_BEB_4087.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\02. Incertitude\DP 2017_BEB_4088.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\02. Incertitude\DP 2017_BEB_4089.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\02. Incertitude\DP 2017_PA7_3080.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\02. Incertitude\DP 2017_PA7_3081.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\02. Incertitude\DP 2017_PA7_3082.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Root\0.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Root\Path1\1.jpg
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Root\Path1\Path11\111.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Root\Path1\Path11\112.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Root\Path1\Path12\121.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Root\Path1\Path12\122.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Root\Path2\21.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\StoreSamples\Root\Path2\22.JPG
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\obj\Debug\OpenStoreImport.UnitTests.csprojAssemblyReference.cache
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\obj\Debug\OpenStoreImport.UnitTests.csproj.CoreCompileInputs.cache
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\obj\Debug\OpenStoreImport.UnitTests.csproj.CopyComplete
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\OpenStoreImport.UnitTests.dll.config
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\OpenStoreImport.UnitTests.dll
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\OpenStoreImport.UnitTests.pdb
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\OpenStoreImport.exe
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\OpenStoreImport.pdb
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\bin\Debug\OpenStoreImport.exe.config
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\obj\Debug\OpenStoreImport.UnitTests.dll
+C:\Src\Github\Wallonman\OpenStoreImport\OpenStoreImport.UnitTests\obj\Debug\OpenStoreImport.UnitTests.pdb

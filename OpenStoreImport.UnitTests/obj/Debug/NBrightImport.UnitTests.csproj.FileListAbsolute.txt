@@ -1,0 +1,67 @@
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\obj\Debug\NBrightImport.UnitTests.csprojAssemblyReference.cache
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\obj\Debug\NBrightImport.UnitTests.csproj.CoreCompileInputs.cache
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\NBrightImport.UnitTests.dll.config
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\NBrightImport.UnitTests.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\NBrightImport.UnitTests.pdb
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\Castle.Core.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\log4net.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\Moq.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\NBrightImport.exe
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\nunit.framework.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\NBrightImport.pdb
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\NBrightImport.exe.config
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\Castle.Core.xml
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\log4net.xml
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\Moq.pdb
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\Moq.xml
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\nunit.framework.xml
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\obj\Debug\NBrightImport.UnitTests.csproj.CopyComplete
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\obj\Debug\NBrightImport.UnitTests.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\obj\Debug\NBrightImport.UnitTests.pdb
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\01. Les bougies\DP 2017_BEB_4083.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\01. Les bougies\DP 2017_BEB_4084.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\01. Les bougies\DP 2017_BEB_4085.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\01. Les bougies\DP 2017_BEB_4086.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\01. Les bougies\DP 2017_BEB_4087.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\02. Incertitude\DP 2017_BEB_4088.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\02. Incertitude\DP 2017_BEB_4089.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\02. Incertitude\DP 2017_PA7_3080.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\02. Incertitude\DP 2017_PA7_3081.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Dance's Passion 2017\Gala 2017\Partie 1\02. Incertitude\DP 2017_PA7_3082.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Root\0.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Root\Path1\1.jpg
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Root\Path1\Path11\111.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Root\Path1\Path11\112.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Root\Path1\Path12\121.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Root\Path1\Path12\122.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Root\Path2\21.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\StoreSamples\Root\Path2\22.JPG
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\NBrightDNN.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\RazorEngine.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\NBrightCore.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\DotNetNuke.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\SharpZipLib.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\DotNetNuke.WebControls.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\DotNetNuke.Instrumentation.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\CountryListBox.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\DotNetNuke.WebUtility.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\Telerik.Web.UI.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\DotNetNuke.Web.Client.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\DotNetNuke.Services.Syndication.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\Lucene.Net.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\Lucene.Net.Contrib.FastVectorHighlighter.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\PetaPoco.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\SchwabenCode.QuickIO.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\dotnetnuke.log4net.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\ClientDependency.Core.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Src\Github\Wallonman\OpenStore\Tools\NBrightImport.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll

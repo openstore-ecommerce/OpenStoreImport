@@ -3,3 +3,5 @@
 ################################################################################
 
 *.suo
+/OpenStoreImport/.vs/OpenStoreImport/v15/Server/sqlite3
+/OpenStoreImport/bin/Debug

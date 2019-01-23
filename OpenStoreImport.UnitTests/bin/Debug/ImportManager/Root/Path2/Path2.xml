@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <products>
+    <fr-FR>
+      <P>
+        <NB_Store_ProductsInfo>
+          <ProductID>0</ProductID>
+          <CreatedDate>2018-12-18T07:06:06.68</CreatedDate>
+          <IsDeleted>false</IsDeleted>
+          <ProductRef>21</ProductRef>
+          <Lang>fr-FR</Lang>
+          <ProductName>21</ProductName>
+          <XMLData />
+          <IsHidden>false</IsHidden>
+        </NB_Store_ProductsInfo>
+        <M>
+          <NB_Store_ModelInfo>
+            <ModelID>1</ModelID>
+            <ProductID>0</ProductID>
+            <ListOrder>1</ListOrder>
+            <UnitCost>2</UnitCost>
+            <ModelRef>21</ModelRef>
+            <Lang>fr-FR</Lang>
+            <QtyRemaining>-1</QtyRemaining>
+            <QtyTrans>0</QtyTrans>
+            <QtyTransDate>2018-12-18T07:06:06.68</QtyTransDate>
+            <Deleted>false</Deleted>
+            <QtyStockSet>0</QtyStockSet>
+            <DealerCost>0.0000</DealerCost>
+            <PurchaseCost>0.0000</PurchaseCost>
+          </NB_Store_ModelInfo>
+        </M>
+        <I>
+          <NB_Store_ProductImageInfo>
+            <ImageID>2</ImageID>
+            <ProductID>0</ProductID>
+            <ImagePath>c:\temp\21.jpg</ImagePath>
+            <ListOrder>1</ListOrder>
+            <Hidden>false</Hidden>
+            <Lang>fr-FR</Lang>
+            <ImageDesc />
+            <ImageURL>/mcpaquot/Portals/0/productimages/21.jpg</ImageURL>
+          </NB_Store_ProductImageInfo>
+        </I>
+        <D />
+        <C>
+          <NB_Store_ProductCategoryInfo>
+            <ProductID>0</ProductID>
+            <CategoryID>1</CategoryID>
+          </NB_Store_ProductCategoryInfo>
+        </C>
+        <R />
+        <options />
+      </P>
+      <P>
+        <NB_Store_ProductsInfo>
+          <ProductID>3</ProductID>
+          <CreatedDate>2018-12-18T07:06:06.68</CreatedDate>
+          <IsDeleted>false</IsDeleted>
+          <ProductRef>22</ProductRef>
+          <Lang>fr-FR</Lang>
+          <ProductName>22</ProductName>
+          <XMLData />
+          <IsHidden>false</IsHidden>
+        </NB_Store_ProductsInfo>
+        <M>
+          <NB_Store_ModelInfo>
+            <ModelID>4</ModelID>
+            <ProductID>3</ProductID>
+            <ListOrder>1</ListOrder>
+            <UnitCost>2</UnitCost>
+            <ModelRef>22</ModelRef>
+            <Lang>fr-FR</Lang>
+            <QtyRemaining>-1</QtyRemaining>
+            <QtyTrans>0</QtyTrans>
+            <QtyTransDate>2018-12-18T07:06:06.68</QtyTransDate>
+            <Deleted>false</Deleted>
+            <QtyStockSet>0</QtyStockSet>
+            <DealerCost>0.0000</DealerCost>
+            <PurchaseCost>0.0000</PurchaseCost>
+          </NB_Store_ModelInfo>
+        </M>
+        <I>
+          <NB_Store_ProductImageInfo>
+            <ImageID>5</ImageID>
+            <ProductID>3</ProductID>
+            <ImagePath>c:\temp\22.jpg</ImagePath>
+            <ListOrder>1</ListOrder>
+            <Hidden>false</Hidden>
+            <Lang>fr-FR</Lang>
+            <ImageDesc />
+            <ImageURL>/mcpaquot/Portals/0/productimages/22.jpg</ImageURL>
+          </NB_Store_ProductImageInfo>
+        </I>
+        <D />
+        <C>
+          <NB_Store_ProductCategoryInfo>
+            <ProductID>3</ProductID>
+            <CategoryID>1</CategoryID>
+          </NB_Store_ProductCategoryInfo>
+        </C>
+        <R />
+        <options />
+      </P>
+    </fr-FR>
+  </products>
+  <categories>
+    <fr-FR>
+      <NB_Store_CategoriesInfo>
+        <CategoryID>0</CategoryID>
+        <PortalID>0</PortalID>
+        <Archived>false</Archived>
+        <Hide>false</Hide>
+        <CreatedByUser>1</CreatedByUser>
+        <CreatedDate>2018-12-18T07:06:06.68</CreatedDate>
+        <ParentCategoryID>0</ParentCategoryID>
+        <ListOrder>1</ListOrder>
+        <Lang>fr-FR</Lang>
+        <CategoryName>Path2</CategoryName>
+        <ParentName />
+        <CategoryDesc></CategoryDesc>
+        <Message />
+        <ProductCount>2</ProductCount>
+        <ProductTemplate />
+        <ListItemTemplate />
+        <ListAltItemTemplate />
+        <ImageURL>/mcpaquot/Portals/0/productimages/categoryImage.</ImageURL>
+        <SEOPageTitle />
+        <SEOName />
+        <MetaDescription />
+        <MetaKeywords />
+      </NB_Store_CategoriesInfo>
+    </fr-FR>
+  </categories>
+</root>
