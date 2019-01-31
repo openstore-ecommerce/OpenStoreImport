@@ -22,6 +22,6 @@ All the Products are created, for instance here the pictures 0.jpg, 1.jpg, 111.j
 ![Open Store Backoffice Catalog screen](docOpenStoreCatalog.png "Open Store Backoffice Catalog screen")
 
 And are associated with their corresponding category, for instance the picture 111 from the subfolder Path11:
-![Open Store Backoffice Product screen](docOpenStoreProduct.pngg "Open Store Backoffice Product screen")
+![Open Store Backoffice Product screen](docOpenStoreProduct.png "Open Store Backoffice Product screen")
 
 
