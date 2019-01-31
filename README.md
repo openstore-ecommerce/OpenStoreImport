@@ -1,4 +1,14 @@
 # OpenStoreImport User guide
+## What is this tool for?
+The OpenStore backoffice allows to import products and categories into the store.
+To achieve that, an import file containing XML must be provided (uploaded), this file must contain the products and categories information described using a valid XML format.
+If you want to use the backoffice import function it is usually because you have a lot of product and categories to import;
+if you only have some products, why using the import function instead of the regular UI?
+
+This tool therefore provides you a convenient way to generated the import XML file from a common folder and file structure, 
+it also generates the zip file containing the product pictures.
+This tool doesn't upload the file to the OpenStore backoffice.
+
 ## File and folder structure
 Let’s say you’ve a root folder – called ‘Root’ – containing subfolders and pictures:
 
