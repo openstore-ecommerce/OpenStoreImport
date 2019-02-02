@@ -3,14 +3,14 @@
 The OpenStore backoffice allows to import products and categories into the store.
 To achieve that, an import file containing XML must be provided (uploaded), this file must contain the products and categories information described using a valid XML format.
 If you want to use the backoffice import function it is usually because you have a lot of product and categories to import;
-if you only have some products, why using the import function instead of the regular UI?
+if you only have some products, so why use the import function instead of the regular UI?
 
 This tool therefore provides you a convenient way to generated the import XML file from a common folder and file structure, 
 it also generates the zip file containing the product pictures.
 This tool doesn't upload the file to the OpenStore backoffice.
 
 ## File and folder structure
-Letís say youíve a root folder ñ called ëRootí ñ containing subfolders and pictures:
+Let‚Äôs say you‚Äôve a root folder ‚Äì called ‚ÄòRoot‚Äô ‚Äì containing subfolders and pictures:
 
 ![Folders](docFolder.png "Folders")
 
@@ -22,7 +22,7 @@ Start the import tool:
 
 ![Import Tool Main Window](docMainWindow.png "Import Tool Main Window")
 
-Fill or select the root folder, and click ìGenerateî
+Fill or select the root folder, and click ‚ÄúGenerate‚Äù
 Two files are generated:
 * Root.xml: The Open Store import file containing the definitions of all the categories and products
 * Root.zip: a zip file containing all the pictures
